@@ -1,0 +1,855 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WIP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-08 14:21+0200\n"
+"PO-Revision-Date: 2023-07-08 14:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;esc_html__;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core/admin/panel.php:14 core/admin/panel.php:31
+msgid "Plugin settings"
+msgstr "Impostazioni plugin"
+
+#: core/admin/panel.php:15
+msgid "Import/Export"
+msgstr "Importa/Esporta"
+
+#: core/admin/panel.php:16 core/admin/panel.php:208 core/admin/panel.php:210
+msgid "Free vs Pro"
+msgstr ""
+
+#: core/admin/panel.php:17 core/includes/class-panel.php:1734
+msgid "Upgrade to Premium"
+msgstr "Aggiorna alla versione Premium"
+
+#: core/admin/panel.php:34
+msgid "Template"
+msgstr "Template"
+
+#: core/admin/panel.php:35
+msgid "Select the template for the related contents."
+msgstr "Seleziona il template per i contenuti correlati."
+
+#: core/admin/panel.php:39
+msgid "Template 1"
+msgstr "Template 1"
+
+#: core/admin/panel.php:40
+msgid "Template 2"
+msgstr "Template 2"
+
+#: core/admin/panel.php:41
+msgid "Template 3"
+msgstr "Template 3"
+
+#: core/admin/panel.php:47
+msgid "Background color"
+msgstr "Colore di sfondo"
+
+#: core/admin/panel.php:48
+msgid "Select the background color."
+msgstr "Seleziona il colore di fondo."
+
+#: core/admin/panel.php:55
+msgid "Background color at hover"
+msgstr "Colore di sfondo al passaggio del mouse."
+
+#: core/admin/panel.php:56
+msgid "Select the background color at hover."
+msgstr "Seleziona il colore di sfondo al passaggio del mouse."
+
+#: core/admin/panel.php:63
+msgid "Text color"
+msgstr "Colore del testo."
+
+#: core/admin/panel.php:64
+msgid "Select the text color."
+msgstr "Seleziona il colore del testo."
+
+#: core/admin/panel.php:71
+msgid "Button text color"
+msgstr "Colore del testo dei pulsanti"
+
+#: core/admin/panel.php:72
+msgid "Select the text color for buttons."
+msgstr "Seleziona il colore del testo dei pulsanti."
+
+#: core/admin/panel.php:79
+msgid "Margin top"
+msgstr "Margine superiore"
+
+#: core/admin/panel.php:80
+msgid "Insert the margin above the related content."
+msgstr "Inserisci il margine sopra il contenuto correlato."
+
+#: core/admin/panel.php:87
+msgid "Margin bottom"
+msgstr "Margine inferiore"
+
+#: core/admin/panel.php:88
+msgid "Insert the margin below the related content."
+msgstr "Inserisci il margine sotto il contenuto correlato."
+
+#: core/admin/panel.php:95
+msgid "Call to action"
+msgstr "Invito all’azione"
+
+#: core/admin/panel.php:96
+msgid "Insert the call to action for all related contents."
+msgstr "Inserisci l’invito all’azione per tutti i contenuti correlati."
+
+#: core/admin/panel.php:99 core/includes/class-related-contents.php:252
+#: core/shortcode/shortcode.php:14
+msgid "Read more"
+msgstr "Leggi di più"
+
+#: core/admin/panel.php:103
+msgid "Count"
+msgstr "Conteggio"
+
+#: core/admin/panel.php:104
+msgid "How many related contents do you want to display?."
+msgstr "Quanti contenuti correlati vuoi visualizzare?."
+
+#: core/admin/panel.php:108 core/admin/panel.php:121
+msgid "1"
+msgstr "1"
+
+#: core/admin/panel.php:109 core/admin/panel.php:122
+msgid "2"
+msgstr "2"
+
+#: core/admin/panel.php:110 core/admin/panel.php:123
+#: core/includes/class-panel.php:978
+msgid "3"
+msgstr "3"
+
+#: core/admin/panel.php:116
+msgid "Interval"
+msgstr "Intervallo"
+
+#: core/admin/panel.php:117
+msgid "After how many paragraphs do you want to insert a related content?"
+msgstr "Dopo quanti paragrafi vuoi inserire il contenuto correlato?"
+
+#: core/admin/panel.php:129
+msgid "Engine search"
+msgstr "Motore di ricerca"
+
+#: core/admin/panel.php:130
+msgid "How do you want to get the related contents?."
+msgstr "Come vuoi ottenere i contenuti correlati?"
+
+#: core/admin/panel.php:134
+msgid "Based of post categories"
+msgstr "In base alle categorie del post"
+
+#: core/admin/panel.php:135
+msgid "Based of post tags"
+msgstr "In base ai tag del post"
+
+#: core/admin/panel.php:141
+msgid "Target attribute"
+msgstr "Attributo target"
+
+#: core/admin/panel.php:142
+msgid "Set _blank to open the related content in a new window."
+msgstr "Imposta _blank per aprire il contenuto correlato in una nuova finestra"
+
+#: core/admin/panel.php:146
+msgid "_self"
+msgstr "_self"
+
+#: core/admin/panel.php:147
+msgid "_blank"
+msgstr "_blank"
+
+#: core/admin/panel.php:153
+msgid "Rel attribute"
+msgstr "Attributo rel"
+
+#: core/admin/panel.php:154
+msgid "Set the rel attribute for the related contents."
+msgstr "Imposta l’attributo rel per i contenuti correlati."
+
+#: core/admin/panel.php:158
+msgid "dofollow"
+msgstr "dofollow"
+
+#: core/admin/panel.php:159
+msgid "nofollow"
+msgstr "nofollow"
+
+#: core/admin/panel.php:165
+msgid "the_content hook priority"
+msgstr "Priorità dell’hook the_content"
+
+#: core/admin/panel.php:166
+msgid ""
+"If the related contents does not show, please change the priority of "
+"the_content hook."
+msgstr ""
+"Se i contenuti correlati non vengono visualizzati, si prega di modificare la "
+"priorità dell’hook the_content."
+
+#: core/admin/panel.php:190 core/admin/panel.php:192
+msgid "Import / Export"
+msgstr "Importa / Esporta"
+
+#: core/includes/class-notice.php:55
+msgid ""
+"Upgrade to Internal Linking of Related Contents Pro to unlock premium "
+"features like 6 premium templates, related posts based on post titles or "
+"custom keywords, option to exclude specific posts/categories or post tags, "
+"custom post type support, AMP support, and much more."
+msgstr ""
+
+#: core/includes/class-notice.php:56
+msgid "Dismiss this notice"
+msgstr "Elimina questo avviso"
+
+#: core/includes/class-notice.php:59
+msgid "Upgrade Now"
+msgstr ""
+
+#: core/includes/class-panel.php:38 core/includes/class-panel.php:39
+msgid "TIP Plugins"
+msgstr "TIP Plugins"
+
+#: core/includes/class-panel.php:51 core/includes/class-panel.php:52
+#: core/includes/class-panel.php:506
+msgid "Internal Linking of Related Contents"
+msgstr "Internal Linking of Related Contents"
+
+#: core/includes/class-panel.php:444
+msgid "Options saved successfully."
+msgstr "Opzioni salvate con successo."
+
+#: core/includes/class-panel.php:507
+msgid "Version: "
+msgstr "Versione: "
+
+#: core/includes/class-panel.php:508
+msgid "by ThemeinProgress"
+msgstr "by ThemeinProgress"
+
+#: core/includes/class-panel.php:509
+msgid " - Documentation"
+msgstr " - Documentazione"
+
+#: core/includes/class-panel.php:632
+msgid "Save content"
+msgstr "Salva contenuto"
+
+#: core/includes/class-panel.php:668
+msgid "Current plugin settings"
+msgstr "Opzioni plugin correnti."
+
+#: core/includes/class-panel.php:677
+msgid "Download current plugin settings"
+msgstr "Scarica le impostazioni correnti del plugin"
+
+#: core/includes/class-panel.php:689 core/includes/class-panel.php:696
+msgid "Reset plugin settings"
+msgstr "Cancella le opzioni del plugin."
+
+#: core/includes/class-panel.php:698
+msgid ""
+"If you click the button above, the plugin options return to its default "
+"values"
+msgstr "Cliccando il pulsante che segue, le opzioni salvate verranno eliminate"
+
+#: core/includes/class-panel.php:710 core/includes/class-panel.php:717
+msgid "Import plugin settings"
+msgstr "Importa le opzioni del plugin."
+
+#: core/includes/class-panel.php:741
+msgid "Free"
+msgstr ""
+
+#: core/includes/class-panel.php:745
+msgid "Premium"
+msgstr ""
+
+#: core/includes/class-panel.php:758
+msgid "Custom colors"
+msgstr ""
+
+#: core/includes/class-panel.php:788
+msgid "Option to edit the cta text"
+msgstr ""
+
+#: core/includes/class-panel.php:818
+msgid "Option to edit the top and bottom margin"
+msgstr ""
+
+#: core/includes/class-panel.php:848
+msgid "Shortcode"
+msgstr ""
+
+#: core/includes/class-panel.php:878
+msgid "Related content based of post category"
+msgstr ""
+
+#: core/includes/class-panel.php:908
+msgid "Related content based of post tag"
+msgstr ""
+
+#: core/includes/class-panel.php:938
+msgid "Option to edit the_content hook priority"
+msgstr ""
+
+#: core/includes/class-panel.php:968
+msgid "Templates"
+msgstr ""
+
+#: core/includes/class-panel.php:984
+msgid "9"
+msgstr "9"
+
+#: core/includes/class-panel.php:998
+msgid "Related contents inside each post"
+msgstr ""
+
+#: core/includes/class-panel.php:1008
+msgid "1 to 3"
+msgstr ""
+
+#: core/includes/class-panel.php:1014
+msgid "1 to 10"
+msgstr ""
+
+#: core/includes/class-panel.php:1028
+msgid "Interval between each related content"
+msgstr ""
+
+#: core/includes/class-panel.php:1038
+msgid "1 to 3 paragraphs"
+msgstr ""
+
+#: core/includes/class-panel.php:1044
+msgid "1 to 10 paragraphs"
+msgstr ""
+
+#: core/includes/class-panel.php:1058
+msgid "Related content based of category and post tags"
+msgstr ""
+
+#: core/includes/class-panel.php:1068
+msgid ""
+"Besides the options available on the free version, you can load the related "
+"contents based of categories and post tags."
+msgstr ""
+
+#: core/includes/class-panel.php:1100
+msgid "Custom keywords"
+msgstr ""
+
+#: core/includes/class-panel.php:1110
+msgid ""
+"You can use custom keywords as Engine Search but you will need to set the "
+"keywords for each post to generate the list of related contents."
+msgstr ""
+
+#: core/includes/class-panel.php:1142
+msgid "Option to exclude specific categories"
+msgstr ""
+
+#: core/includes/class-panel.php:1152
+msgid ""
+"You can select one or more categories to exclude from the related contents."
+msgstr ""
+
+#: core/includes/class-panel.php:1184
+msgid "Option to exclude specific tags"
+msgstr ""
+
+#: core/includes/class-panel.php:1194
+msgid ""
+"You can select one or more post tags to exclude from the related contents."
+msgstr ""
+
+#: core/includes/class-panel.php:1226
+msgid "Option to exclude specific posts"
+msgstr ""
+
+#: core/includes/class-panel.php:1236
+msgid "You can select one or more posts to exclude from the related contents."
+msgstr ""
+
+#: core/includes/class-panel.php:1268
+msgid "Device selection"
+msgstr ""
+
+#: core/includes/class-panel.php:1278
+msgid ""
+"You can select the device where you want to display the related contents."
+msgstr ""
+
+#: core/includes/class-panel.php:1310
+msgid "Option to edit the font size"
+msgstr ""
+
+#: core/includes/class-panel.php:1320
+msgid ""
+"You can set a different font size, based of the user device (mobile,tablet "
+"and desktop)."
+msgstr ""
+
+#: core/includes/class-panel.php:1352
+msgid "Featured image"
+msgstr ""
+
+#: core/includes/class-panel.php:1362
+msgid ""
+"You can display the featured image of related content, choosing one of "
+"premium available template."
+msgstr ""
+
+#: core/includes/class-panel.php:1394
+msgid "Order by option"
+msgstr ""
+
+#: core/includes/class-panel.php:1404
+msgid "You can select how to order the related contents."
+msgstr ""
+
+#: core/includes/class-panel.php:1436
+msgid "Sort order option"
+msgstr ""
+
+#: core/includes/class-panel.php:1446
+msgid "You can select the ordering of related contents."
+msgstr ""
+
+#: core/includes/class-panel.php:1478
+msgid "Shortcode generator"
+msgstr ""
+
+#: core/includes/class-panel.php:1488
+msgid ""
+"For only WordPress 3.9.0 and higher versions is available a dynamic "
+"shortcode generator, to add a specific related post inside the WordPress "
+"content."
+msgstr ""
+
+#: core/includes/class-panel.php:1522
+msgid "Advanced shortcode"
+msgstr ""
+
+#: core/includes/class-panel.php:1532
+msgid ""
+"Use the new shortcode \"[ilrc_advanced]\" to display a list of related "
+"contents or a specific related post, based on available related posts."
+msgstr ""
+
+#: core/includes/class-panel.php:1567
+msgid "Gutenberg block"
+msgstr ""
+
+#: core/includes/class-panel.php:1577
+msgid ""
+"Starting from the version 1.0.9, you can use the Gutenberg block to add a "
+"specific related post inside the WordPress content."
+msgstr ""
+
+#: core/includes/class-panel.php:1609
+msgid "AMP support"
+msgstr ""
+
+#: core/includes/class-panel.php:1619
+msgid "Display rightly the related posts in AMP pages."
+msgstr ""
+
+#: core/includes/class-panel.php:1651
+msgid "Custom post types support"
+msgstr ""
+
+#: core/includes/class-panel.php:1661
+msgid "You can enable the related contents for specific custom post types."
+msgstr ""
+
+#: core/includes/class-panel.php:1693
+msgid "Automatic data import"
+msgstr ""
+
+#: core/includes/class-panel.php:1703
+msgid ""
+"After the activation of Internal Linking of Related Contents Pro, all "
+"settings will be imported automatically from the free version."
+msgstr ""
+
+#: init.php:72
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: init.php:73
+msgid "Upgrade to PRO"
+msgstr ""
+
+#~ msgid ""
+#~ "To enable all features and new templates, please upgrade to the premium "
+#~ "version."
+#~ msgstr ""
+#~ "Per abilitare tutte le funzionalità e i nuovi template, si prega di "
+#~ "aggiornare alla versione premium."
+
+#~ msgid "Upgrade to Internal Linking of Related Contents Pro"
+#~ msgstr ""
+#~ "Aggiorna alla versione premium di Internal Linking of Related Contents Pro"
+
+#~ msgid "License Key"
+#~ msgstr "Chiave di licenza"
+
+#~ msgid "License Key."
+#~ msgstr "Chiave di licenza."
+
+#~ msgid "Insert the license key received by email to activate "
+#~ msgstr "Inserisci la chiave di licenza ricevuta per email per attivare "
+
+#~ msgid "Template 4"
+#~ msgstr "Template 4"
+
+#~ msgid "Template 5"
+#~ msgstr "Template 5"
+
+#~ msgid "Template 6"
+#~ msgstr "Template 6"
+
+#~ msgid "Text color at hover"
+#~ msgstr "Colore del testo al passaggio del mouse"
+
+#~ msgid "Select the text color at hover."
+#~ msgstr "Colore del testo al passaggio del mouse."
+
+#~ msgid "Order by"
+#~ msgstr "Ordina per"
+
+#~ msgid "How you want to order the related contents?."
+#~ msgstr "Come vuoi ordinare i contenuti correlati?"
+
+#~ msgid "Post title"
+#~ msgstr "Titolo del post"
+
+#~ msgid "Randomly"
+#~ msgstr "Casualmente"
+
+#~ msgid "Post date"
+#~ msgstr "Data del post"
+
+#~ msgid "Sort order"
+#~ msgstr "Ordinamento"
+
+#~ msgid "Select the order of related contents."
+#~ msgstr "Seleziona l’ordinamento dei contenuti correlati."
+
+#~ msgid "Ascending"
+#~ msgstr "Ascendente"
+
+#~ msgid "Descending"
+#~ msgstr "Discendente"
+
+#~ msgid "4"
+#~ msgstr "4"
+
+#~ msgid "5"
+#~ msgstr "5"
+
+#~ msgid "6"
+#~ msgstr "6"
+
+#~ msgid "7"
+#~ msgstr "7"
+
+#~ msgid "8"
+#~ msgstr "8"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "Categories and post tags"
+#~ msgstr "Categorie e tags"
+
+#~ msgid "Categories to exclude"
+#~ msgstr "Categorie da escludere"
+
+#~ msgid "Select one or more categories to exclude from the related contents."
+#~ msgstr "Seleziona una o più categorie da escludere dai contenuti correlati."
+
+#~ msgid "Post tags to exclude"
+#~ msgstr "Tags da escludere"
+
+#~ msgid "Select one or more post tags to exclude from the related contents."
+#~ msgstr "Seleziona uno o più tags da escludere dai contenuti correlati."
+
+#~ msgid "Post to exclude"
+#~ msgstr "Post da escludere"
+
+#~ msgid "Select one or more posts to exclude from the related contents."
+#~ msgstr "Seleziona una o più articoli da escludere dai contenuti correlati."
+
+#~ msgid ""
+#~ "To enable all features, like the dynamic conversion values of "
+#~ "WooCommerce, please upgrade to the premium version."
+#~ msgstr ""
+#~ "Per attivare tutte le funzionalità, come i valori di conversione dinamici "
+#~ "di WooCommerce, aggiorna alla versione premium."
+
+#~ msgid "Unexpected Error! The query returned with an error."
+#~ msgstr "Errore inaspettato! La query è stata restituita con un errore"
+
+#~ msgid "Internal Linking of Related Contents Pro"
+#~ msgstr "Internal Linking of Related Contents Pro"
+
+#~ msgid "Please activate "
+#~ msgstr "Si prega di attivare "
+
+#~ msgid "Upload"
+#~ msgstr "Carica"
+
+#~ msgid "View details"
+#~ msgstr "Visualizza dettagli"
+
+#~ msgid "More information about %s"
+#~ msgstr "Maggiori informazioni su %s"
+
+#~ msgid "Check for updates"
+#~ msgstr "Controlla gli aggiornamenti"
+
+#~ msgid "Unknown update checker status \"%s\""
+#~ msgstr "Stato del controllo degli aggiornamenti sconosciuto “%s”"
+
+#~ msgid "There is no changelog available."
+#~ msgstr "Non è disponibile alcun changelog"
+
+#~ msgid "Hook priority"
+#~ msgstr "Priorità dell’hook"
+
+#~ msgid ""
+#~ "If the related contents does not show, please change the hook priority."
+#~ msgstr ""
+#~ "Se i contenuti correlati non vengono visualizzati, si prega di modificare "
+#~ "la priorità dell’hook."
+
+#~ msgid "<span>You are using "
+#~ msgstr "<span>Tu stai usando"
+
+#~ msgid "New snippet"
+#~ msgstr "Nuovo snippet"
+
+#~ msgid "Undefined snippet."
+#~ msgstr "Snippet non definito."
+
+#~ msgid "Add the name of this script."
+#~ msgstr "Aggiungi il nome di questo script."
+
+#~ msgid "Post Excerpt"
+#~ msgstr "Riassunto post"
+
+#~ msgid "Post Content"
+#~ msgstr "Contenuto post"
+
+#~ msgid "Select a position for this script"
+#~ msgstr "Seleziona una posizione per questo script."
+
+#~ msgid "Homepage"
+#~ msgstr "Homepage"
+
+#~ msgid "Do you want to load this script on the homepage?"
+#~ msgstr "Vuoi caricare questo script nella homepage?"
+
+#~ msgid "Search"
+#~ msgstr "Cerca"
+
+#~ msgid "Do you want to load this script on the search result pages?"
+#~ msgstr "Vuoi caricare questo script nei risultati di ricerca?"
+
+#~ msgid "Whole website (posts, pages, taxonomies)"
+#~ msgstr "Intero sito (articoli, pagine, tassonomie)"
+
+#~ msgid "Do you want to load this script on whole website?"
+#~ msgstr "Vuoi caricare questo script in tutto il sito?"
+
+#~ msgid "Custom post types."
+#~ msgstr "Tipi post personalizzati"
+
+#~ msgid "Below each available custom post type."
+#~ msgstr "Di seguito ogni tipo di post personalizzato disponibile."
+
+#~ msgid " match value."
+#~ msgstr " valore di corrispondenza."
+
+#~ msgid "Include"
+#~ msgstr "Includi"
+
+#~ msgid "Exclude"
+#~ msgstr "Escludi"
+
+#~ msgid "Do you want to include or exclude this custom post type?"
+#~ msgstr ""
+#~ "Vuoi include o escludere questo post personalizzato (custom post type)?"
+
+#~ msgid "Include these items."
+#~ msgstr "Includi questi elementi."
+
+#~ msgid "Type [All] to include all items."
+#~ msgstr "Inserisci [All] per includere tutti gli elementi."
+
+#~ msgid "Exclude these items."
+#~ msgstr "Escludi questi elementi."
+
+#~ msgid "Type [All] to exclude all items."
+#~ msgstr "Inserisci [All] per escludere tutti gli elementi."
+
+#~ msgid "Custom taxonomies."
+#~ msgstr "Tassonomie personalizzate."
+
+#~ msgid "Below each available Custom taxonomy."
+#~ msgstr "Di seguito ogni tassonomia personalizzata disponibile."
+
+#~ msgid "Do you want to include or exclude this custom taxonomy?"
+#~ msgstr ""
+#~ "Vuoi include o escludere questa tassonomia personalizzata (custom "
+#~ "taxonomy)?"
+
+#~ msgid "Include these items. "
+#~ msgstr "Includi questi elementi. "
+
+#~ msgid "Exclude these items. "
+#~ msgstr "Escludi questi elementi. "
+
+#~ msgid "Save snippet"
+#~ msgstr "Salva snippet"
+
+#~ msgid "Delete snippet"
+#~ msgstr "Cancella snippet"
+
+#~ msgid "Script Generator"
+#~ msgstr "Generatore script"
+
+#~ msgid ""
+#~ "Click on + to add a new slot, then click on Save button to save the slot."
+#~ msgstr ""
+#~ "Clicca su + per aggiungere un nuovo slot, successivamente clicca sul "
+#~ "pulsante salva per salvare lo slot."
+
+#~ msgid "Upgrade to Custom Script Manager Pro"
+#~ msgstr "Aggiorna a Custom Script Manager Pro"
+
+#~ msgid "Custom Script Manager"
+#~ msgstr "Custom Script Manager"
+
+#~ msgid ""
+#~ "<span>You have reached the limit of 6 slots. You can unlock this limit "
+#~ "visiting this LINK</span> "
+#~ msgstr ""
+#~ "<span>Hai raggiunto il limite di 6 slot. Puoi sbloccare questo limite "
+#~ "visitando questo LINK</span>"
+
+#~ msgid "Script name."
+#~ msgstr "Nome dello script."
+
+#~ msgid "Script position."
+#~ msgstr "Posizione dello script."
+
+#~ msgid "Header script"
+#~ msgstr "Script nella testata"
+
+#~ msgid "Footer script"
+#~ msgstr "Script nel piè di pagina"
+
+#~ msgid "WooCommerce conversion script"
+#~ msgstr "Script conversione WooCommerce"
+
+#~ msgid "Body script"
+#~ msgstr "Script nel corpo della pagina"
+
+#~ msgid "Where do you want to load this script?"
+#~ msgstr "Dove vuoi caricare questo script?"
+
+#~ msgid ""
+#~ "Type 0 to load the script before the post excerpt or -1 to load the "
+#~ "script after the post excerpt."
+#~ msgstr ""
+#~ "Digitare 0 per caricare lo script prima dell’estratto del post oppure -1 "
+#~ "per caricare lo script dopo l’estratto del post."
+
+#~ msgid ""
+#~ "Type 0 to load the script before the post content or -1 to load the "
+#~ "script after the post content."
+#~ msgstr ""
+#~ "Digitare 0 per caricare lo script prima del contenuto oppure -1 per "
+#~ "caricare lo script dopo il contenuto."
+
+#~ msgid "Custom script"
+#~ msgstr "Script personalizzato"
+
+#~ msgid "Put here your CSS, HTML, Javascript or WordPress shortcode."
+#~ msgstr ""
+#~ "Inserisci qui il codice CSS, HTML, Javascript o shortcode WordPress."
+
+#~ msgid "Delete"
+#~ msgstr "Cancella"
+
+#~ msgid "User Role"
+#~ msgstr "Ruolo utente"
+
+#~ msgid "Roles"
+#~ msgstr "Ruoli"
+
+#~ msgid "Choose the user role that can't load all saved scripts."
+#~ msgstr ""
+#~ "Seleziona ogni ruolo utente che non può caricare tutti gli script salvati."
+
+#~ msgid "Custom Script Manager Pro"
+#~ msgstr "Custom Script Manager Pro"
+
+#~ msgid "After how many characters do you want to load this script?"
+#~ msgstr "Dopo quanti caratteri vuoi caricare questo script?"
+
+#~ msgid ""
+#~ "Type 0 to load the script before the post excerpt, -1 to load the script "
+#~ "after the post excerpt or any value, our system avoid to break the post "
+#~ "excerpt."
+#~ msgstr ""
+#~ "Inserisci 0 per caricare lo script prima del riassunto del post, -1 per "
+#~ "caricare lo script dopo il riassunto del post oppure qualsiasi valore, il "
+#~ "nostro sistema evita di rompere il riassunto del post."
+
+#~ msgid "After how many paragraphs do you want to load this script?"
+#~ msgstr "Dopo quanti paragrafi vuoi caricare questo script?"
+
+#~ msgid ""
+#~ "Type 0 to load the script before the post content, -1 to load the script "
+#~ "after the post  content or any value, our system avoid to break the post "
+#~ "content."
+#~ msgstr ""
+#~ "Inserisci 0 per caricare lo script prima del contenuto del post, -1 per "
+#~ "caricare lo script dopo il contenuto del post oppure qualsiasi valore, il "
+#~ "nostro sistema evita di rompere il contenuto del post."
+
+#~ msgid ""
+#~ "Choose the user role that can&lsquo;t load the following script, Note "
+#~ "that if an user role is disabled from the main settings, you can&lsquo;t "
+#~ "enable it from this section."
+#~ msgstr ""
+#~ "Seleziona ogni ruolo utente che non può caricare il seguente script. Nota "
+#~ "che se un utente è disabilitato dalle opzioni principali, non è possibile "
+#~ "abilitarlo da qui."
+
+#~ msgid "Activate"
+#~ msgstr "Attiva"
+
+#~ msgid "Categories: "
+#~ msgstr "Categorie: "

@@ -1,0 +1,64 @@
+/* ===============================================
+   NOTICE SECTION
+   =============================================== */
+   
+.ilrc-notice {
+	width:100;
+	display:block;
+	border-color:#ec7063;
+	padding:25px
+}
+
+.ilrc-notice .dismiss-notice {
+	margin-top:5px;
+	font-size:12px;
+}
+
+.ilrc-notice .ilrc-noticedescription {
+	float:left;
+	font-size:14px;
+	width: 80%;
+}
+
+.ilrc-notice .button {
+	background: #ec7063;
+	border:solid 2px #ec7063;
+	color:#fff !important;
+	padding: 8px 16px;
+	height:auto;
+	line-height:normal;
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	float:right;
+	text-transform:uppercase;
+	font-weight:bold
+}
+
+.ilrc-notice .button:hover ,
+.ilrc-notice .button:active ,
+.ilrc-notice .button:focus {
+	border-color: #e74c3c;
+	background-color:#e74c3c;
+	-webkit-box-shadow:none;
+    box-shadow:none;
+}
+
+@media screen and (min-width : 0px) and (max-width : 992px)  {
+		
+	.ilrc-notice .ilrc-noticedescription {
+		float:none;
+		width: 100%;
+	}
+	
+	.ilrc-notice .button {
+		margin-top:20px;
+		float:none;
+	}
+
+	.ilrc-notice .dismiss-notice {
+		margin-top:15px;
+		display:block
+	}
+
+}
